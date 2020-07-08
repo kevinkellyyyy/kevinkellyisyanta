@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/htt[://kevinkellyyyy.github.io/kevinkellyisyanta/static/css/main.5f361e03.chunk.css",
+    "main.js": "/htt[://kevinkellyyyy.github.io/kevinkellyisyanta/static/js/main.9430471c.chunk.js",
+    "main.js.map": "/htt[://kevinkellyyyy.github.io/kevinkellyisyanta/static/js/main.9430471c.chunk.js.map",
+    "runtime-main.js": "/htt[://kevinkellyyyy.github.io/kevinkellyisyanta/static/js/runtime-main.05e75802.js",
+    "runtime-main.js.map": "/htt[://kevinkellyyyy.github.io/kevinkellyisyanta/static/js/runtime-main.05e75802.js.map",
+    "static/js/2.1e0ed143.chunk.js": "/htt[://kevinkellyyyy.github.io/kevinkellyisyanta/static/js/2.1e0ed143.chunk.js",
+    "static/js/2.1e0ed143.chunk.js.map": "/htt[://kevinkellyyyy.github.io/kevinkellyisyanta/static/js/2.1e0ed143.chunk.js.map",
+    "index.html": "/htt[://kevinkellyyyy.github.io/kevinkellyisyanta/index.html",
+    "precache-manifest.6a4e0396f1fd394efaffa03b2962914e.js": "/htt[://kevinkellyyyy.github.io/kevinkellyisyanta/precache-manifest.6a4e0396f1fd394efaffa03b2962914e.js",
+    "service-worker.js": "/htt[://kevinkellyyyy.github.io/kevinkellyisyanta/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/htt[://kevinkellyyyy.github.io/kevinkellyisyanta/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.1e0ed143.chunk.js.LICENSE.txt": "/htt[://kevinkellyyyy.github.io/kevinkellyisyanta/static/js/2.1e0ed143.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05e75802.js",
+    "static/js/2.1e0ed143.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.9430471c.chunk.js"
+  ]
+}
